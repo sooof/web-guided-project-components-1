@@ -116,3 +116,11 @@ dist
 .yarn/unplugged
 .yarn/build-state.yml
 .pnp.*
+
+# dependencies
+/.pnp
+.pnp.js
+node_modules/
+dist/
+.cache/
+npm-debug.log
